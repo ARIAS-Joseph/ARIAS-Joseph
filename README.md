@@ -10,9 +10,14 @@
 
 ## Developpement :
 
-### Pour la première année d'informatique 
+### Licence UVSQ
 
-Blackjack en Python : (https://github.com/uvsq22200934/project-blackjack) 
+**L1:**
+- Blackjack en Python : (https://github.com/uvsq22200934/project-blackjack)
+**L2:**
+- Analyse de tweets : (https://github.com/ARIAS-Joseph/Projet-IN304-InPoDA)
+- Création d'un graphe et trouver un plus court chemin : (https://github.com/Liklenb/ThierryNET)
+
 
 ## Stages :
 
