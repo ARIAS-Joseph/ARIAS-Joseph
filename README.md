@@ -13,7 +13,7 @@ Je recherche un **stage de 4 à 6 mois à partir d'avril 2027**.
 ### Master
 
 - **[Simulation d'un réseau en bus](https://github.com/LugolBis/Event-Simulation)** (Python, cours de Simulation) : simulation à événements discrets de la transmission de paquets, avec modélisation des collisions.
-- **Google bombing** (cours de Méthodes de ranking) : implémentation de plusieurs stratégies d'attaque et analyse de leur influence sur le classement et le score PageRank.
+- **[Google bombing](https://github.com/uvsq22201695/methodes-de-ranking)** (cours de Méthodes de ranking) : implémentation de plusieurs stratégies d'attaque et analyse de leur influence sur le classement et le score PageRank.
 
 ### Licence
 
