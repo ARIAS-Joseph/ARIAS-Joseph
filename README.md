@@ -1,62 +1,45 @@
-# Etudiant en double Licence : Informatique - Biologie .
+# Joseph Arias
 
-**Etudiant en double licence Informatique & Biologie à l'université Paris-Saclay**. Je suis passionnée par la génétique, l'informatique, la biostatistique et la bio-informatique. 
+**Étudiant en M2 AMIS (Algorithme et Modélisation à l'Interface des Sciences) – Université Paris-Saclay / UVSQ**
 
-[Mon profil linkedin](https://www.linkedin.com/in/joseph-arias-887205286) 
+Je m'intéresse à l'algorithmique, à la théorie des graphes, à la recherche opérationnelle, à la théorie des jeux et à la simulation. J'ai suivi une licence en double diplôme Biologie-Informatique, qui m'a laissé un goût pour la bio-informatique et les statistiques.
 
-[Mon profil mastodon](https://mastodon.social/@joseph_arias) 
+Je recherche un **stage de 4 à 6 mois à partir d'avril 2027**.
 
-[Mon github UVSQ](https://github.com/uvsq22200738)
+[LinkedIn](https://www.linkedin.com/in/joseph-arias-887205286) · [Mastodon](https://mastodon.social/@joseph_arias) · [GitHub UVSQ](https://github.com/uvsq22200738)
 
-## Developpement :
+## Projets
 
-### Licence UVSQ
+### Master
 
-**L1:**
-- Blackjack en Python : (https://github.com/uvsq22200934/project-blackjack)
+- **Simulation d'un réseau en bus** (Python, cours de Simulation) : simulation à événements discrets de la transmission de paquets, avec modélisation des collisions.
+- **Google bombing** (cours de Méthodes de ranking) : implémentation de plusieurs stratégies d'attaque et analyse de leur influence sur le classement et le score PageRank.
 
-**L2:**
-- Analyse de tweets : (https://github.com/ARIAS-Joseph/Projet-IN304-InPoDA)
-- Création d'un graphe et trouver un plus court chemin : (https://github.com/Liklenb/ThierryNET)
+### Licence
 
+- **L1** : [Blackjack en Python](https://github.com/uvsq22200934/project-blackjack)
+- **L2** : [Analyse de tweets](https://github.com/ARIAS-Joseph/Projet-IN304-InPoDA)
+- **L2** : [Création d'un graphe et recherche d'un plus court chemin](https://github.com/Liklenb/ThierryNET)
 
-## Stages :
+## Compétences
 
-### Echange linguistique
+Python · C · Java · R · SQL / PL-SQL
 
-Deux mois d'échanges au Paraguay où j'ai assisté aux cours d'un niveau équivalent seconde en epsagnol
+## Diplômes et certifications
 
-### Stage de 3eme au parlement européen 
+- **Python** : [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=vJ6a.GqQb.LFqa) (juillet 2023)
+- **Anglais** : TOEIC 990/990, niveau C1
+- **Espagnol** : DELE niveau C1, Instituto Cervantes (juin 2021)
+- **Baccalauréat** (juillet 2021), mention Très Bien : option internationale espagnole, options Latin et Grec ancien
 
-Stage de 3ème au parlement européen : Stage d'une semaine au parlement européen et dans la permanence d'une député européenne.
+## Autres expériences
 
-## Certificats 
+- **Échange linguistique au Paraguay** : deux mois de cours en espagnol, dans une classe de niveau équivalent à la seconde.
+- **Stage de 3<sup>e</sup> au Parlement européen** : une semaine, dont la permanence d'une députée européenne.
 
-### Python 
+## Loisirs
 
-[PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=vJ6a.GqQb.LFqa) en *juillet 2023*. 
-
-### Baccalauréat (juillet 2021)
-
-Baccalauréat avec mention très bien.
-- Option Internationale Espagnol.
-- Option Langue et Culture Ancienne Latin.
-- Option Langue et Culture Ancienne Grec.
-
-### Cerificat Cervantes niveau C1 (juin 2021)
-
-Certificat de l'instiuto Cervantes attestant d'un niveau C1 en Espagnol.
-
-## Loisirs :
-
-- Courses (dernière course : Paris - Versailles ).
-
-- Montagne : Randonnées, Ski Alpin : flèche de bronze ESF , Surf, Canyoning.
-
-- Plongées : niveau 1 de la FFESSM depuis 2017.
-
-- Voile : niveau 2 de la FFV.
-
-- Musique : formation Niveau C2.3A en solfégre et C2.1A en Cor d'harmonie.
-
-- Tennis, Padel.
+- **Course à pied**
+- **Sports de montagne** : randonnée, ski alpin, trail
+- **Sports nautiques** : voile, plongée, surf
+- **Sports de raquette** : tennis, padel, badminton
